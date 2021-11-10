@@ -1,0 +1,16 @@
+.bg-image{
+    background-image: url(https://images.pexels.com/photos/1908647/pexels-photo-1908647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+.description{
+    height: 70px;
+    }
+
+/* .bg-image input{
+    height: 40px;
+} */
+

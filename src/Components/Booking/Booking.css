@@ -1,0 +1,9 @@
+.booking-order{
+    margin-top: 80px;
+}
+.single-details{
+    border: 1px solid rgba(0, 0, 0, 0.116);
+    background-color: rgba(128, 128, 128, 0.164);
+    border-radius: 10px;
+margin-bottom: 50px;
+}
